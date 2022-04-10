@@ -1,0 +1,18 @@
+.class {
+    background-color: rgb(255, 155, 135);
+    font-family: verdana, "Dejavu Sans", sans-serif;
+}
+
+.class.butcooler {
+    font-size: 24px;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-id {
+    background-color: rgb(76, 230, 117);
+    font-size: 24px;
+}
